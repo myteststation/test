@@ -1,0 +1,13 @@
+﻿## Interface: 90100
+
+## Title: Leatrix Sounds
+## Notes: Massive collection of game sounds.
+
+## Version: 9.1.04
+## Author: Leatrix
+## SavedVariables: LeaSoundsDB
+
+Leatrix_Sounds_Locale.lua
+Leatrix_Sounds_Mainline_Files.lua
+Leatrix_Sounds_Mainline_Kits.lua
+Leatrix_Sounds_Mainline.lua
